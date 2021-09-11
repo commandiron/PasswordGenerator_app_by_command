@@ -1,0 +1,2 @@
+rootProject.name='PasswordGenerator_app_by_command'
+include ':app'
